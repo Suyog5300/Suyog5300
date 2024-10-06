@@ -50,7 +50,7 @@
 
 ### 🏙️ GitHub Skyline
 
-<a href="https://skyline.github.com/Suyog5300/2023" title="2023 GitHub Skyline"><img src="https://skyline.github.com/Suyog5300/2023.png" alt="2023 GitHub Skyline" width="100%"></a>
+<a href="https://skyline.github.com/Suyog5300/2024" title="2023 GitHub Skyline"><img src="https://skyline.github.com/Suyog5300/2024.png" alt="2023 GitHub Skyline" width="100%"></a>
 
 ---
 
