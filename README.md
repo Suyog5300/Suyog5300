@@ -1,86 +1,69 @@
-<h1 align="center">Hi 👋, I'm Suyog Bhise</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# 👋 Hi there, I'm Suyog Bhise!
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+## 👨‍💻 Full Stack Developer | MERN Specialist
+
+🚀 With 7 months of experience in the MERN stack, I specialize in building scalable web applications, RESTful APIs, and efficient database management systems.
+
+🎓 B.E. in Computer Engineering | CGPA: 7.94
+
+📍 Pune, India | 📱 9119403573 | 📧 suyogb5300@gmail.com
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🏆 Projects
+
+1. **Employee Management Portal**
+   - Role-based access, timesheet management, leave requests, and AWS S3 document storage
+   - Tech: MongoDB, Express.js, React.js, Node.js, AWS S3
+
+2. **Loan Repayment Calculator**
+   - Interactive tool for loan breakdowns and repayment schedules
+   - Tech: React.js, Node.js, MongoDB, AWS S3, Payment Gateway, Recharts
+
+3. **Zeal ERP System**
+   - Dynamic College Management Website for student data management
+   - Tech: HTML, CSS, JavaScript, PHP (Laravel), MySQL, Bootstrap
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suyog5300&show_icons=true&theme=radical" alt="Suyog's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyog5300&theme=radical" alt="Suyog's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Suyog5300?tab=repositories">
-    <img alt="Total Repositories" title="Total Repositories" src="https://img.shields.io/badge/Total%20Repos-10-orange?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Suyog5300?tab=followers">
-    <img alt="Followers" title="Followers" src="https://img.shields.io/github/followers/Suyog5300?color=red&logo=github&style=for-the-badge">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌟 About Me:
+### 🐍 Contribution Graph
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m learning **advanced JavaScript concepts** and improving my **React** skills
-- 👨‍💻 Check out my portfolio at [Portfolio](https://suyog-dev.netlify.app/)
-- 📝 I regularly write articles on **tech topics** on [My Blog](https://suyog-dev.netlify.app/blog)
-- 💬 Ask me about **JavaScript, React, Node.js, and APIs**
-- 📫 How to reach me **suyogb5300@gmail.com**
-- ⚡ Fun fact: I love solving complex coding puzzles and automating tasks!
-
----
-
-### 🛠 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
-
----
-
-### 🔥 My Contributions:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog5300&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suyog5300&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suyog5300&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
-</p>
-
----
-
-### 👨‍💻 Connect with Me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suyog-bhise-616a3b1b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Suyog5300"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:suyogb5300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" alt="GIF animation" />
-</p>
-
----
-
-### ✍️ Latest Blog Posts:
-- [Post 1 Title](#)
-- [Post 2 Title](#)
-- [Post 3 Title](#)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suyog5300&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
