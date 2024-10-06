@@ -42,9 +42,9 @@
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/Suyog5300/blob/output/snake.svg)
+![Snake animation](https://github.com/Suyog5300/Suyog5300/blob/output/snake.svg)
 
 ---
 
@@ -58,12 +58,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-### 🎵 Now Playing
-
-[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31jts2pyvqqph2ylzspsb5es7p4u)
 
 ---
 
