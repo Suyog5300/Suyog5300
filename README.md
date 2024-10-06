@@ -11,8 +11,8 @@
 📍 Pune, India | 📱 9119403573 | 📧 suyogb5300@gmail.com
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suyog-bhise-616a3b1b9/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Suyog5300)
 
 ---
 
@@ -59,11 +59,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyog5300&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/snake.svg)
+![Snake animation](https://github.com/Suyog5300/Suyog5300/blob/output/snake.svg)
+
+---
+
