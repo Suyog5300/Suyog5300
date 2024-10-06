@@ -1,69 +1,118 @@
-# 👋 Hi there, I'm Suyog Bhise!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Suyog+Bhise!;I'm+a+Full+Stack+Developer...;Specializing+in+MERN+stack" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨‍💻 Full Stack Developer | MERN Specialist
+## 👨‍💻 About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Developer;Specializing+in+MERN+stack)
+🚀 Full Stack Developer with 7 months of MERN stack experience<br>
+🎓 B.E. in Computer Engineering | CGPA: 7.94<br>
+🌟 Passionate about building scalable web applications and RESTful APIs<br>
+🏡 Based in Pune, India
 
-🚀 With 7 months of experience in the MERN stack, I specialize in building scalable web applications, RESTful APIs, and efficient database management systems.
+<div align="left">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:suyogb5300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-🎓 B.E. in Computer Engineering | CGPA: 7.94
+## 🛠️ Tech Stack & Tools
 
-📍 Pune, India | 📱 9119403573 | 📧 suyogb5300@gmail.com
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+</div>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+## 🏆 Projects
 
----
+### 1. Employee Management Portal
+- 🔧 Role-based access, timesheet management, leave requests, and AWS S3 document storage
+- 💻 Tech: MongoDB, Express.js, React.js, Node.js, AWS S3
 
-### 🛠️ Tech Stack & Tools
+### 2. Loan Repayment Calculator
+- 🧮 Interactive tool for loan breakdowns and repayment schedules
+- 💻 Tech: React.js, Node.js, MongoDB, AWS S3, Payment Gateway, Recharts
 
-... (keep your existing tech stack section)
+### 3. Zeal ERP System
+- 🎓 Dynamic College Management Website for student data management
+- 💻 Tech: HTML, CSS, JavaScript, PHP (Laravel), MySQL, Bootstrap
 
----
+## 📊 GitHub Stats
 
-### 🏆 Projects
-
-... (keep your existing projects section)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suyog5300&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyog5300&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
----
+## 🐍 Contribution Graph
 
-### Contribution Graph
+<div align="center">
+  <img src="https://github.com/Suyog5300/Suyog5300/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
-![Snake animation](https://github.com/Suyog5300/Suyog5300/blob/output/snake.svg)
+## 🏙️ GitHub Skyline
 
----
+<div align="center">
+  <a href="https://skyline.github.com/Suyog5300/2024" title="2024 GitHub Skyline">
+    <img src="https://skyline.github.com/Suyog5300/2024.png" alt="2024 GitHub Skyline" width="600" />
+  </a>
+</div>
 
-### 🏙️ GitHub Skyline
-
-<a href="https://skyline.github.com/Suyog5300/2024" title="2023 GitHub Skyline"><img src="https://skyline.github.com/Suyog5300/2024.png" alt="2023 GitHub Skyline" width="100%"></a>
-
----
-
-
----
-
-### 📈 Coding Activity
+## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
+## 👀 Profile Views
 
-### 👀 Visitor Count
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Suyog5300/count.svg" alt="Visitor Count" />
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/Suyog5300/count.svg)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  Thanks for visiting my profile! Have a great day! 😊
+</div>
