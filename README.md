@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Suyog+Bhise!;I'm+a+Full+Stack+Developer...;Specializing+in+MERN+stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+👋+,+I'm+Suyog+Bhise!;I'm+a+Full+Stack+Developer...;Specializing+in+MERN+stack" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
