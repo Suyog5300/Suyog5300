@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me
 
-🚀 Full Stack Developer with 7 months of MERN stack experience<br>
-🎓 B.E. in Computer Engineering | CGPA: 7.94<br>
+🚀 Full Stack Developer with experience in MERN stack experience<br>
+👨‍💻 Check out my portfolio at [Portfolio](https://suyog-dev.netlify.app/)
 🌟 Passionate about building scalable web applications and RESTful APIs<br>
 🏡 Based in Pune, India
 
@@ -64,7 +64,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ## 🏆 Projects
@@ -95,14 +94,6 @@
 
 <div align="center">
   <img src="https://github.com/Suyog5300/Suyog5300/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏙️ GitHub Skyline
-
-<div align="center">
-  <a href="https://skyline.github.com/Suyog5300/2024" title="2024 GitHub Skyline">
-    <img src="https://skyline.github.com/Suyog5300/2024.png" alt="2024 GitHub Skyline" width="600" />
-  </a>
 </div>
 
 ## 📈 Coding Activity
