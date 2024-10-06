@@ -2,8 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+👋+,+I'm+Suyog+Bhise!;I'm+a+Full+Stack+Developer...;Specializing+in+MERN+stack" alt="Typing SVG" />
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suyog5300&show_icons=true&theme=radical" alt="Suyog's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyog5300&theme=radical" alt="Suyog's GitHub Streak" />
+  <a href="https://github.com/Suyog5300?tab=repositories">
+    <img alt="Total Repositories" title="Total Repositories" src="https://img.shields.io/badge/Total%20Repos-10-orange?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Suyog5300?tab=followers">
+    <img alt="Followers" title="Followers" src="https://img.shields.io/github/followers/Suyog5300?color=red&logo=github&style=for-the-badge">
+  </a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
