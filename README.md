@@ -121,136 +121,32 @@
 
 ---
 
-## 💼 Professional Experience
+## 🏆 Projects
 
-### 🏢 Full Stack Developer @ **IVTREE** 
-**Feb 2024 – Present | Bangalore, India**
-
-**Key Achievements:**
-- Reduced administrative workload by **55%** through automation
-- Streamlined onboarding processes by **40%** for 100+ employees
-- Implemented secure AWS S3 encryption for document management
-- Built automated notification systems using node-cron
-
----
-
-## 🚀 Featured Projects
-
-### 1️⃣ **Employee Management Portal** (Production)
-**Enterprise HR Management System**
-
-Designed and developed a comprehensive employee management platform serving 100+ employees with role-based access control and automated workflows.
-
-**Key Features:**
+### 1. Employee Management Portal
+- 🔧 Full-fledged enterprise HR management system serving 100+ employees
 - ⏱️ Real-time timesheet tracking with automated reminders
 - 📝 Automated leave request workflows and approval systems
 - 📁 Secure document management with AWS S3 encryption
 - 🔔 Automated email notifications using cronjobs
 - 👥 Role-based access control for different user levels
+- 💻 **Tech:** MongoDB, Express.js, React.js, Node.js, AWS S3, JWT, node-cron
 
-**Impact:** Reduced administrative workload by **55%** and streamlined onboarding by **40%**
+### 2. SocialBoost - Social Media Marketing Platform
+- 🔐 Multi-factor authentication system (JWT + Google OAuth 2.0)
+- 👥 Role-based dashboards for Admin and User roles
+- 💳 Stripe payment gateway integration for subscriptions
+- 📅 Google Calendar API integration for scheduling features
+- 🎨 Modern, responsive UI with Tailwind CSS and Shadcn components
+- 💻 **Tech:** React.js, Node.js, Express.js, MongoDB, TypeScript, JWT, Google OAuth 2.0, Stripe API, Tailwind CSS, Shadcn, DigitalOcean, Vercel
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `AWS S3` `JWT` `node-cron`
-
----
-
-### 2️⃣ **Loan Repayment Calculator** (SaaS Platform)
-**Advanced Financial Calculation Tool**
-
-Built a sophisticated SaaS platform for loan repayment calculations with interactive visualizations and flexible payment schedules.
-
-**Key Features:**
-- 📊 Interactive financial visualization with Recharts
-- 💳 PayPal integration for premium subscriptions
-- 📅 Multiple repayment schedules (monthly, weekly, fortnightly)
-- 💰 Dynamic interest rates and offset account support
-- 📧 Automated trial expiration notifications
-
-**Impact:** Boosted premium adoption through seamless payment integration
-
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `AWS S3` `PayPal API` `JWT` `Recharts`
-
----
-
-### 3️⃣ **SocialBoost** - Social Media Marketing Platform 🔥
-**Production | May – Aug 2025** | [🔗 Live](https://socialboost.com)
-
-Developed a comprehensive social media marketing platform with enterprise-grade authentication and payment processing.
-
-**Key Features:**
-- 🔐 Multi-factor authentication (JWT + Google OAuth 2.0)
-- 👥 Role-based dashboards (Admin & User)
-- 💳 Stripe payment gateway integration
-- 📅 Google Calendar API for post scheduling
-- 🎨 Modern, responsive UI with Tailwind & Shadcn
-
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `TypeScript` `JWT` `Google OAuth 2.0` `Stripe API` `Tailwind CSS` `Shadcn` `DigitalOcean` `Vercel`
-
----
-
-### 4️⃣ **LeapBooster** - Digital Marketing Website 🌐
-**Production | May – Aug 2025** | [🔗 Live](https://leapbooster.com)
-
-Designed and delivered a modern, SEO-optimized website for a digital marketing agency with exceptional performance metrics.
-
-**Key Achievements:**
-- 🚀 Achieved **85+ Lighthouse scores** across all metrics
-- 📈 Boosted search visibility by **91%** through SEO optimization
-- 📱 Fully responsive design with smooth cross-device UX
-- ⚡ Implemented structured data markup and performance optimizations
-
-**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Shadcn` `Vercel`
-
----
-
-### 5️⃣ **LeapBooster Portfolio Website** 🎬
-**Production | Jun – Sep 2025** | [🔗 Live](https://portfolio.leapbooster.com)
-
-Created a multimedia portfolio site with stunning animations and optimized media delivery.
-
-**Key Features:**
-- ✨ Framer Motion animations for engaging UX
-- 📹 Optimized video playback with iOS-specific adaptations
-- ☁️ AWS S3 integration for multimedia asset storage
-- 🎯 **Perfect 100 SEO score** with 85+ performance metrics
-
-**Lighthouse Scores:** Performance: 85 | Accessibility: 94 | Best Practices: 96 | SEO: 100
-
-**Tech Stack:** `Next.js 15` `TypeScript` `Tailwind CSS` `Framer Motion` `AWS S3` `Vercel`
-
----
-
-### 6️⃣ **MatchMyResume** - AI Chrome Extension 🤖
-**Personal Project | Ongoing** | [📂 Repository](https://github.com/Suyog5300/MatchMyResume)
-
-Built an intelligent Chrome extension that leverages AI to help job seekers optimize their resumes.
-
-**Key Features:**
-- 🎯 AI-powered job description analysis using Google Gemini
-- 📊 Resume-job match scoring system
-- 🔍 Skills gap analysis and recommendations
-- 💡 Personalized improvement suggestions
-
-**Roadmap:**
-- 🔗 Naukri/Indeed platform integrations
-- ✉️ AI-powered email generation for applications
-
-**Tech Stack:** `React.js` `Tailwind CSS` `Google Gemini API` `Chrome Extension APIs`
-
----
-
-### 7️⃣ **Zeal ERP System** 
-**Dynamic College Management System**
-
-Developed a comprehensive ERP system for educational institutions with advanced student data management capabilities.
-
-**Key Features:**
-- 🎓 Student information management system
-- 📊 Academic performance tracking
-- 👨‍🏫 Faculty and staff management modules
-- 📱 Responsive design for mobile access
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `PHP (Laravel)` `MySQL` `Bootstrap`
+### 3. MatchMyResume - AI Chrome Extension
+- 🤖 AI-powered job description analysis using Google Gemini
+- 🎯 Resume-job match scoring system
+- 🔍 Skills gap analysis and personalized recommendations
+- 💡 Intelligent improvement suggestions for job seekers
+- 🔗 Roadmap: Naukri/Indeed integrations and AI-powered email generation
+- 💻 **Tech:** React.js, Tailwind CSS, Google Gemini API, Chrome Extension APIs
 
 ---
 
@@ -283,38 +179,6 @@ Developed a comprehensive ERP system for educational institutions with advanced 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Science**  
-Savitribai Phule University | Aug 2018 – Jul 2022  
-**CGPA:** 7.94/10.0
-
----
-
-## 🏆 Key Achievements
-
-✨ **2+ years** of professional full-stack development experience  
-🚀 Delivered **7+ production-grade** applications (SaaS, enterprise portals, marketing platforms)  
-💼 Successfully completed **multiple high-impact freelance projects**  
-📈 Improved operational efficiency by **55%** through automation solutions  
-🎯 Achieved **100 SEO score** on multiple deployed projects  
-⚡ Built scalable systems serving **100+ active users**  
-🔐 Expert in **secure authentication** (JWT, OAuth 2.0) and payment integrations (Stripe, PayPal)
-
----
-
-## 💡 What I Bring to the Table
-
-- ✅ **End-to-End Development:** From concept to deployment and maintenance
-- ✅ **Cloud Integration:** AWS, DigitalOcean, Vercel deployment expertise
-- ✅ **Payment Solutions:** Stripe and PayPal integration experience
-- ✅ **Authentication Systems:** JWT, OAuth 2.0, multi-factor authentication
-- ✅ **Performance Optimization:** SEO, Lighthouse scores, responsive design
-- ✅ **Modern Frameworks:** React, Next.js, Node.js, TypeScript
-- ✅ **Agile Mindset:** Problem-solving, teamwork, effective communication
 
 ---
 
