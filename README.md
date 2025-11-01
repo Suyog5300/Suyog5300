@@ -178,7 +178,7 @@
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
@@ -223,13 +223,14 @@ Sunday                   70 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 49 mins        █████████████████████████   99.12 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +246,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 12:41:04 UTC
+ Last Updated on 01/11/2025 01:40:18 UTC
 <!--END_SECTION:waka-->
 
 ---
