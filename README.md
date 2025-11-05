@@ -119,7 +119,7 @@
   <img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" height="40" alt="PayPal" title="PayPal Integration" />
 </div>
 
----
+<!---
 
 ## 🏆 Projects
 
@@ -148,7 +148,7 @@
 - 🔗 Roadmap: Naukri/Indeed integrations and AI-powered email generation
 - 💻 **Tech:** React.js, Tailwind CSS, Google Gemini API, Chrome Extension APIs
 
----
+--- -->
 
 ## 📊 GitHub Statistics
 
