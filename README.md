@@ -178,11 +178,11 @@
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -223,17 +223,17 @@ Sunday                   73 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-CSS                      3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-TypeScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-HTML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JavaScript               3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
+TypeScript               2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+CSS                      1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -249,7 +249,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 12:41:27 UTC
+ Last Updated on 06/01/2026 01:47:42 UTC
 <!--END_SECTION:waka-->
 
 ---
