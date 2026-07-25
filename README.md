@@ -263,6 +263,8 @@ const suyog = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%204%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.26%20million%20lines%20of%20code-blue?style=flat)
@@ -306,18 +308,18 @@ Sunday                   243 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       ████████████████░░░░░░░░░   62.25 % 
-Other                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-PHP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               2 hrs 26 mins       ████████████████░░░░░░░░░   62.77 % 
+Other                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       ██████████████████████░░░   87.08 % 
-Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+VS Code                  3 hrs 22 mins       ██████████████████████░░░   86.97 % 
+Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -333,7 +335,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:39:01 UTC
+ Last Updated on 25/07/2026 13:26:40 UTC
 <!--END_SECTION:waka-->
 
 ---
