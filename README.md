@@ -308,18 +308,18 @@ Sunday                   243 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       ████████████████░░░░░░░░░   62.77 % 
-Other                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               2 hrs 12 mins       ██████████████████░░░░░░░   72.79 % 
+Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       ██████████████████████░░░   86.97 % 
-Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+VS Code                  2 hrs 30 mins       █████████████████████░░░░   82.46 % 
+Claude Code              31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -335,7 +335,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 13:26:40 UTC
+ Last Updated on 26/07/2026 02:47:57 UTC
 <!--END_SECTION:waka-->
 
 ---
