@@ -308,18 +308,15 @@ Sunday                   243 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       ██████████████████░░░░░░░   72.79 % 
-Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               1 hr 23 mins        █████████████████████████   98.49 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████░░░░   82.46 % 
-Claude Code              31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+VS Code                  1 hr 14 mins        ██████████████████████░░░   88.22 % 
+Claude Code              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -335,7 +332,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 13:22:32 UTC
+ Last Updated on 27/07/2026 02:56:18 UTC
 <!--END_SECTION:waka-->
 
 ---
