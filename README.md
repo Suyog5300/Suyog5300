@@ -263,7 +263,9 @@ const suyog = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -308,15 +310,39 @@ Sunday                   243 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        █████████████████████████   98.49 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TypeScript               1 hr 23 mins        ██████████████████████░░░   86.73 % 
+Docker                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        ██████████████████████░░░   88.22 % 
-Claude Code              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+VS Code                  1 hr 26 mins        ██████████████████████░░░   89.63 % 
+Claude Code              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 36 mins (100.0%)
+
+✍️ 100 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,791,439 Input Tokens, 23,852 Output Tokens
+
+💵 $29.07 Estimated AI Cost This Week
+
+🧠 61 AI Sessions, 76 AI Prompts
+
+Opus                     100 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,835 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -332,7 +358,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:34:55 UTC
+ Last Updated on 28/07/2026 02:32:51 UTC
 <!--END_SECTION:waka-->
 
 ---
