@@ -263,6 +263,10 @@ const suyog = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.27%20million%20lines%20of%20code-blue?style=flat)
@@ -279,6 +283,66 @@ const suyog = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+🌆 Daytime                525 commits         ███████████░░░░░░░░░░░░░░   44.34 % 
+🌃 Evening                514 commits         ███████████░░░░░░░░░░░░░░   43.41 % 
+🌙 Night                  108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Tuesday                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Wednesday                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Thursday                 252 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Friday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Saturday                 91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Sunday                   245 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    10 mins             █████████████░░░░░░░░░░░░   51.21 % 
+TypeScript               9 mins              ████████████░░░░░░░░░░░░░   48.79 % 
+
+🔥 Editors: 
+VS Code                  18 mins             ███████████████████████░░   90.43 % 
+Claude Code              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+
+💻 Operating System: 
+Windows                  20 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 990,614 Input Tokens, 571 Output Tokens
+
+💵 $15.07 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 25 AI Prompts
+
+Opus                     12 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 6,496 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -292,7 +356,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:40:08 UTC
+ Last Updated on 07/08/2026 13:03:44 UTC
 <!--END_SECTION:waka-->
 
 ---
