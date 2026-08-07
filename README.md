@@ -263,10 +263,6 @@ const suyog = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.27%20million%20lines%20of%20code-blue?style=flat)
@@ -283,67 +279,6 @@ const suyog = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-🌆 Daytime                524 commits         ███████████░░░░░░░░░░░░░░   44.33 % 
-🌃 Evening                514 commits         ███████████░░░░░░░░░░░░░░   43.49 % 
-🌙 Night                  108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Tuesday                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Wednesday                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Thursday                 252 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Friday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Saturday                 91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Sunday                   245 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               11 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
-Other                    10 mins             ████████░░░░░░░░░░░░░░░░░   32.94 % 
-TypeScript               9 mins              ████████░░░░░░░░░░░░░░░░░   31.39 % 
-
-🔥 Editors: 
-VS Code                  29 mins             ███████████████████████░░   93.85 % 
-Claude Code              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-
-💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 mins (64.33%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 990,614 Input Tokens, 571 Output Tokens
-
-💵 $15.07 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 25 AI Prompts
-
-Opus                     12 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 6,496 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -357,7 +292,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 14:09:45 UTC
+ Last Updated on 07/08/2026 02:40:08 UTC
 <!--END_SECTION:waka-->
 
 ---
