@@ -269,7 +269,7 @@ const suyog = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -286,21 +286,21 @@ const suyog = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-🌆 Daytime                526 commits         ███████████░░░░░░░░░░░░░░   44.31 % 
-🌃 Evening                514 commits         ███████████░░░░░░░░░░░░░░   43.30 % 
-🌙 Night                  108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+🌆 Daytime                626 commits         ███████████░░░░░░░░░░░░░░   45.56 % 
+🌃 Evening                577 commits         ██████████░░░░░░░░░░░░░░░   41.99 % 
+🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Tuesday                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Wednesday                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Thursday                 252 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Friday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Sunday                   245 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Thursday                 317 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Sunday                   293 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
 ```
 
 
@@ -310,19 +310,38 @@ Sunday                   245 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 21 mins        ██████████████░░░░░░░░░░░   57.12 % 
+Other                    1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 15 mins       ████████████████████████░   94.66 % 
+Claude Code              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 27 mins (60.91%)
+
+✍️ 0 lines written by AI, 812 lines written by hand (0.0% AI-written)
+
+🔤 1,136,463 Input Tokens, 27,696 Output Tokens
+
+💵 $23.98 Estimated AI Cost This Week
+
+🧠 26 AI Sessions, 79 AI Prompts
+
+Opus                     12 lines            █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,996 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -338,7 +357,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 13:08:03 UTC
+ Last Updated on 11/08/2026 01:44:36 UTC
 <!--END_SECTION:waka-->
 
 ---
