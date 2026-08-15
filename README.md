@@ -286,21 +286,21 @@ const suyog = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-🌆 Daytime                630 commits         ███████████░░░░░░░░░░░░░░   45.72 % 
-🌃 Evening                577 commits         ██████████░░░░░░░░░░░░░░░   41.87 % 
-🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+🌞 Morning                53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+🌆 Daytime                630 commits         ███████████░░░░░░░░░░░░░░   45.65 % 
+🌃 Evening                579 commits         ██████████░░░░░░░░░░░░░░░   41.96 % 
+🌙 Night                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Thursday                 318 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Sunday                   293 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Monday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Thursday                 318 commits         ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Sunday                   293 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
 ```
 
 
@@ -310,38 +310,42 @@ Sunday                   293 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      1 hr 21 mins        ██████████████░░░░░░░░░░░   56.80 % 
-Other                    1 hr 2 mins         ███████████░░░░░░░░░░░░░░   43.20 % 
+PHP                      1 hr 21 mins        ███████████░░░░░░░░░░░░░░   43.41 % 
+Other                    1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   41.62 % 
+TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       ████████████████████████░   94.69 % 
-Claude Code              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+VS Code                  2 hrs 32 mins       ████████████████████░░░░░   80.95 % 
+Claude Code              35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (61.12%)
+⏱ AI Coding Time: 2 hrs 12 mins (70.29%)
 
-✍️ 0 lines written by AI, 812 lines written by hand (0.0% AI-written)
+✍️ 428 lines written by AI, 812 lines written by hand (34.52% AI-written)
 
-🔤 1,174,665 Input Tokens, 28,622 Output Tokens
+🔤 1,381,132 Input Tokens, 60,544 Output Tokens
 
-💵 $24.38 Estimated AI Cost This Week
+💵 $29.53 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 81 AI Prompts
+🧠 47 AI Sessions, 106 AI Prompts
 
-Opus                     12 lines            █████████████████████████   100.00 % 
+Opus                     291 lines           ████████████████░░░░░░░░░   62.99 % 
+Sonnet                   171 lines           █████████░░░░░░░░░░░░░░░░   37.01 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,978 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 34.52% of written lines came from AI
+📚 Verbose Prompter — average 3,842 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 77.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -357,7 +361,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 13:06:30 UTC
+ Last Updated on 15/08/2026 01:13:54 UTC
 <!--END_SECTION:waka-->
 
 ---
