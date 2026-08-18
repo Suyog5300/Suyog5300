@@ -286,21 +286,21 @@ const suyog = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-🌆 Daytime                661 commits         ███████████░░░░░░░░░░░░░░   45.55 % 
-🌃 Evening                613 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
-🌙 Night                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+🌞 Morning                57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+🌆 Daytime                661 commits         ███████████░░░░░░░░░░░░░░   45.49 % 
+🌃 Evening                613 commits         ███████████░░░░░░░░░░░░░░   42.19 % 
+🌙 Night                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 320 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Sunday                   306 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Monday                   114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Thursday                 320 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Sunday                   306 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
 ```
 
 
@@ -310,43 +310,43 @@ Sunday                   306 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.73 % 
-Other                    4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-PHP                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript               8 hrs 14 mins       ██████████████░░░░░░░░░░░   55.36 % 
+Other                    3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Markdown                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 29 mins      █████████████████████░░░░   84.21 % 
-Claude Code              2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+VS Code                  12 hrs 13 mins      █████████████████████░░░░   82.08 % 
+Claude Code              2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 
 💻 Operating System: 
-Windows                  16 hrs              █████████████████████████   100.00 % 
+Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 33 mins (90.95%)
+⏱ AI Coding Time: 14 hrs 21 mins (96.38%)
 
-✍️ 5,430 lines written by AI, 823 lines written by hand (86.84% AI-written)
+✍️ 6,724 lines written by AI, 11 lines written by hand (99.84% AI-written)
 
-🔤 5,433,007 Input Tokens, 577,602 Output Tokens
+🔤 4,674,653 Input Tokens, 672,036 Output Tokens
 
-💵 $224.85 Estimated AI Cost This Week
+💵 $231.62 Estimated AI Cost This Week
 
-🧠 699 AI Sessions, 1013 AI Prompts
+🧠 841 AI Sessions, 1132 AI Prompts
 
-Opus                     4,521 lines         █████████████████████░░░░   82.16 % 
-Fable                    811 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sonnet                   171 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Opus                     5,651 lines         ████████████████████░░░░░   81.85 % 
+Fable                    811 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Sonnet                   442 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.84% of written lines came from AI
-📚 Verbose Prompter — average 6,641 characters per prompt
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 7,099 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 23.13% of changed lines were hand-edited
+🚀 High AI Trust — 1.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -362,7 +362,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 12:43:28 UTC
+ Last Updated on 18/08/2026 01:13:11 UTC
 <!--END_SECTION:waka-->
 
 ---
