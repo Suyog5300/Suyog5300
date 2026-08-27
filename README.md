@@ -310,37 +310,37 @@ Sunday                   306 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 18 mins       ███████████████░░░░░░░░░░   60.90 % 
-TypeScript               1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.31 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Markdown                 2 hrs 17 mins       ███████████████░░░░░░░░░░   60.75 % 
+TypeScript               1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       ████████████████░░░░░░░░░   63.50 % 
-Claude Code              1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.50 % 
+VS Code                  2 hrs 23 mins       ████████████████░░░░░░░░░   63.47 % 
+Claude Code              1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.53 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 45 mins (100.0%)
 
 ✍️ 2,374 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,222,354 Input Tokens, 130,185 Output Tokens
+🔤 2,786,959 Input Tokens, 127,810 Output Tokens
 
-💵 $47.36 Estimated AI Cost This Week
+💵 $45.11 Estimated AI Cost This Week
 
-🧠 168 AI Sessions, 232 AI Prompts
+🧠 166 AI Sessions, 230 AI Prompts
 
 Opus                     2,374 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,699 characters per prompt
+📚 Verbose Prompter — average 6,677 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -358,7 +358,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 12:52:18 UTC
+ Last Updated on 27/08/2026 07:51:00 UTC
 <!--END_SECTION:waka-->
 
 ---
