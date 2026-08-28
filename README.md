@@ -310,55 +310,54 @@ Sunday                   306 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       ███████████████░░░░░░░░░░   60.75 % 
-TypeScript               1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+TypeScript               1 hr 13 mins        █████████████████░░░░░░░░   68.85 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Other                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       ████████████████░░░░░░░░░   63.47 % 
-Claude Code              1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.53 % 
+Claude Code              1 hr 14 mins        █████████████████░░░░░░░░   69.69 % 
+VS Code                  32 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
 
 💻 Operating System: 
-Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 1 hr 46 mins (100.0%)
 
-✍️ 2,374 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 907 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,786,959 Input Tokens, 127,810 Output Tokens
+🔤 2,010,090 Input Tokens, 63,126 Output Tokens
 
-💵 $45.11 Estimated AI Cost This Week
+💵 $33.71 Estimated AI Cost This Week
 
-🧠 166 AI Sessions, 230 AI Prompts
+🧠 56 AI Sessions, 99 AI Prompts
 
-Opus                     2,374 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     907 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,677 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 5,124 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               27 repos            ████████████░░░░░░░░░░░░░   49.09 % 
-JavaScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               27 repos            ████████████░░░░░░░░░░░░░   48.21 % 
+JavaScript               23 repos            ██████████░░░░░░░░░░░░░░░   41.07 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
 
 
- Last Updated on 27/08/2026 21:53:35 UTC
+ Last Updated on 28/08/2026 09:55:40 UTC
 <!--END_SECTION:waka-->
 
 ---
