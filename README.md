@@ -310,37 +310,33 @@ Sunday                   306 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        █████████████████████░░░░   83.05 % 
-Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+TypeScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 12 mins        █████████████████████░░░░   83.05 % 
-VS Code                  14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (100.0%)
+⏱ AI Coding Time: 2 mins (100.0%)
 
-✍️ 648 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,380,254 Input Tokens, 47,924 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $25.89 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 78 AI Prompts
-
-Opus                     648 lines           █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,020 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 6,768 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -356,7 +352,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 16:19:06 UTC
+ Last Updated on 30/08/2026 03:59:35 UTC
 <!--END_SECTION:waka-->
 
 ---
