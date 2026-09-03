@@ -310,19 +310,37 @@ Sunday                   306 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               16 mins             ██████████████████████░░░   89.82 % 
+Prisma                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              15 mins             █████████████████████░░░░   85.39 % 
+VS Code                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 17 mins (100.0%)
+
+✍️ 958 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 658,490 Input Tokens, 27,939 Output Tokens
+
+💵 $20.16 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 8 AI Prompts
+
+Opus                     958 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,448 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -338,7 +356,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 16:05:40 UTC
+ Last Updated on 03/09/2026 03:14:58 UTC
 <!--END_SECTION:waka-->
 
 ---
