@@ -310,23 +310,24 @@ Sunday                   306 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 3 mins        ███████████████████░░░░░░   75.75 % 
-TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Markdown                 2 hrs 3 mins        ██████████████████░░░░░░░   72.21 % 
+TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-Claude Code              1 hr 24 mins        █████████████░░░░░░░░░░░░   51.72 % 
-VS Code                  1 hr 18 mins        ████████████░░░░░░░░░░░░░   48.28 % 
+VS Code                  1 hr 26 mins        █████████████░░░░░░░░░░░░   50.71 % 
+Claude Code              1 hr 24 mins        ████████████░░░░░░░░░░░░░   49.29 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 42 mins (95.32%)
 
 ✍️ 1,950 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -334,14 +335,14 @@ Windows                  2 hrs 42 mins       ███████████�
 
 💵 $41.40 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 46 AI Prompts
+🧠 27 AI Sessions, 45 AI Prompts
 
 Opus                     1,950 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,119 characters per prompt
+📚 Verbose Prompter — average 5,232 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -359,7 +360,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 15:53:02 UTC
+ Last Updated on 05/09/2026 03:16:14 UTC
 <!--END_SECTION:waka-->
 
 ---
