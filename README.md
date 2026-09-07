@@ -310,40 +310,38 @@ Sunday                   306 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 3 mins        ██████████████████░░░░░░░   72.21 % 
-TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+TypeScript               36 mins             ██████████████░░░░░░░░░░░   54.19 % 
+Other                    16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+SQL                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Prisma                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████░░░░░░░░░░░░   50.71 % 
-Claude Code              1 hr 24 mins        ████████████░░░░░░░░░░░░░   49.29 % 
+VS Code                  56 mins             █████████████████████░░░░   82.96 % 
+Claude Code              11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (95.32%)
+⏱ AI Coding Time: 59 mins (88.22%)
 
-✍️ 1,950 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,376 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,801,560 Input Tokens, 79,984 Output Tokens
+🔤 1,712,546 Input Tokens, 53,160 Output Tokens
 
-💵 $41.40 Estimated AI Cost This Week
+💵 $46.38 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 45 AI Prompts
+🧠 65 AI Sessions, 90 AI Prompts
 
-Opus                     1,950 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,376 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,232 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 6,447 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -360,7 +358,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 15:02:10 UTC
+ Last Updated on 07/09/2026 03:13:53 UTC
 <!--END_SECTION:waka-->
 
 ---
