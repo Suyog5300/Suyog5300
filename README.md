@@ -286,21 +286,21 @@ const suyog = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-🌆 Daytime                718 commits         ███████████░░░░░░░░░░░░░░   45.73 % 
-🌃 Evening                649 commits         ██████████░░░░░░░░░░░░░░░   41.34 % 
-🌙 Night                  125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+🌞 Morning                78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+🌆 Daytime                718 commits         ███████████░░░░░░░░░░░░░░   45.67 % 
+🌃 Evening                649 commits         ██████████░░░░░░░░░░░░░░░   41.28 % 
+🌙 Night                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Tuesday                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Wednesday                244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Thursday                 351 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Friday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Saturday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   320 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Monday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Tuesday                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Wednesday                244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 351 commits         ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Friday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Saturday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Sunday                   320 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 ```
 
 
@@ -310,38 +310,38 @@ Sunday                   320 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ███████████████████░░░░░░   77.93 % 
-Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               1 hr 56 mins        ██████████████████████░░░   87.57 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+SQL                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        ██████████████████░░░░░░░   73.48 % 
-Claude Code              39 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+VS Code                  1 hr 36 mins        ██████████████████░░░░░░░   72.19 % 
+Claude Code              37 mins             ███████░░░░░░░░░░░░░░░░░░   27.81 % 
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 21 mins (94.66%)
+⏱ AI Coding Time: 2 hrs 5 mins (94.0%)
 
 ✍️ 1,786 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,962,441 Input Tokens, 140,812 Output Tokens
+🔤 1,944,083 Input Tokens, 133,635 Output Tokens
 
-💵 $62.92 Estimated AI Cost This Week
+💵 $55.14 Estimated AI Cost This Week
 
-🧠 156 AI Sessions, 228 AI Prompts
+🧠 148 AI Sessions, 202 AI Prompts
 
 Opus                     1,786 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,057 characters per prompt
+📚 Verbose Prompter — average 6,297 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -359,7 +359,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 15:57:11 UTC
+ Last Updated on 11/09/2026 03:20:41 UTC
 <!--END_SECTION:waka-->
 
 ---
