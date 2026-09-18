@@ -310,32 +310,32 @@ Sunday                   320 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.78 % 
-Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Other                    3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
+Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 25 mins       ████████████████░░░░░░░░░   63.88 % 
-VS Code                  3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.12 % 
+Claude Code              6 hrs 16 mins       ████████████████░░░░░░░░░   65.69 % 
+VS Code                  3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
 
 💻 Operating System: 
-Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 46 mins (97.21%)
+⏱ AI Coding Time: 9 hrs 16 mins (97.06%)
 
 ✍️ 6,151 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,932,190 Input Tokens, 1,003,765 Output Tokens
+🔤 7,047,338 Input Tokens, 967,254 Output Tokens
 
-💵 $164.68 Estimated AI Cost This Week
+💵 $152.66 Estimated AI Cost This Week
 
-🧠 265 AI Sessions, 732 AI Prompts
+🧠 235 AI Sessions, 646 AI Prompts
 
 Opus                     5,736 lines         ██████████████████████░░░   89.84 % 
 Sonnet                   649 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
@@ -344,7 +344,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,100 characters per prompt
+📚 Verbose Prompter — average 5,389 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -362,7 +362,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 16:24:00 UTC
+ Last Updated on 18/09/2026 03:30:41 UTC
 <!--END_SECTION:waka-->
 
 ---
