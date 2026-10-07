@@ -310,44 +310,44 @@ Sunday                   338 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 37 mins       ██████████████████░░░░░░░   72.29 % 
-Python                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    4 hrs 30 mins       █████████████████░░░░░░░░   68.76 % 
+Python                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Mermaid                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 6 mins        ███████████████████████░░   91.42 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Claude Code              5 hrs 48 mins       ██████████████████████░░░   88.65 % 
+VS Code                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 
 💻 Operating System: 
-Windows                  7 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 44 mins (99.42%)
+⏱ AI Coding Time: 6 hrs 33 mins (100.0%)
 
-✍️ 9,412 lines written by AI, 97 lines written by hand (98.98% AI-written)
+✍️ 7,334 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,958,000 Input Tokens, 1,127,801 Output Tokens
+🔤 6,095,680 Input Tokens, 1,050,637 Output Tokens
 
-💵 $148.90 Estimated AI Cost This Week
+💵 $118.90 Estimated AI Cost This Week
 
-🧠 159 AI Sessions, 767 AI Prompts
+🧠 97 AI Sessions, 599 AI Prompts
 
-Opus                     8,806 lines         ███████████████████████░░   93.52 % 
-Spark                    345 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Sonnet                   265 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Opus                     6,727 lines         ███████████████████████░░   91.69 % 
+Spark                    345 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Sonnet                   265 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📚 Verbose Prompter — average 2,672 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.02% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,447 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -363,7 +363,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 18:02:10 UTC
+ Last Updated on 07/10/2026 04:39:41 UTC
 <!--END_SECTION:waka-->
 
 ---
