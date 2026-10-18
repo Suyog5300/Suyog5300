@@ -310,43 +310,43 @@ Sunday                   338 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
-Other                    3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Markdown                 3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Python                   4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
+Markdown                 2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Other                    2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 25 mins       ██████████████████░░░░░░░   73.00 % 
-Claude Code              3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+VS Code                  8 hrs 22 mins       ███████████████████░░░░░░   77.10 % 
+Claude Code              2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 
 💻 Operating System: 
-Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 54 mins (99.93%)
+⏱ AI Coding Time: 10 hrs 52 mins (100.0%)
 
-✍️ 28,676 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 26,385 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 22,089,400 Input Tokens, 2,016,515 Output Tokens
+🔤 18,565,347 Input Tokens, 1,772,308 Output Tokens
 
-💵 $2399.42 Estimated AI Cost This Week
+💵 $2247.55 Estimated AI Cost This Week
 
-🧠 150 AI Sessions, 696 AI Prompts
+🧠 129 AI Sessions, 574 AI Prompts
 
-Spark                    22,166 lines        ███████████████████░░░░░░   77.24 % 
-Opus                     6,531 lines         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Spark                    21,391 lines        ████████████████████░░░░░   81.01 % 
+Opus                     5,015 lines         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,507 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,738 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -362,7 +362,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 15:05:48 UTC
+ Last Updated on 18/10/2026 03:20:58 UTC
 <!--END_SECTION:waka-->
 
 ---
