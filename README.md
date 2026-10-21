@@ -275,11 +275,11 @@ const suyog = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -310,45 +310,45 @@ Sunday                   344 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Markdown                 2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-TypeScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Other                    1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Other                    7 hrs               ███████████░░░░░░░░░░░░░░   44.18 % 
+TypeScript               3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Markdown                 2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Python                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 50 mins       ███████████████░░░░░░░░░░   58.20 % 
-VS Code                  4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
-OpenCode                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Claude Code              12 hrs 26 mins      ████████████████████░░░░░   78.43 % 
+VS Code                  3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+OpenCode                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Windows                  11 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 39 mins (99.12%)
+⏱ AI Coding Time: 15 hrs 45 mins (99.35%)
 
-✍️ 27,720 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,993 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 27,173,715 Input Tokens, 1,611,780 Output Tokens
+🔤 25,084,116 Input Tokens, 1,687,304 Output Tokens
 
-💵 $1055.81 Estimated AI Cost This Week
+💵 $516.40 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 297 AI Prompts
+🧠 186 AI Sessions, 1205 AI Prompts
 
-Spark                    19,848 lines        ██████████████████░░░░░░░   70.66 % 
-Opus                     7,327 lines         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-DeepSeek                 733 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Nemotron                 181 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     6,810 lines         ██████████████████░░░░░░░   73.77 % 
+Spark                    1,195 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+DeepSeek                 733 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Nemotron                 493 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,904 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 6,728 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -365,7 +365,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 16:28:42 UTC
+ Last Updated on 21/10/2026 03:35:29 UTC
 <!--END_SECTION:waka-->
 
 ---
